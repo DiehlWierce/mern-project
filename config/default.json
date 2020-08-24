@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "diehl is amazing!",
+    "mongoURI": "mongodb://diehl:5aT-PzG-7vT-Fhg@cluster0-shard-00-00.3vcrt.azure.mongodb.net:27017,cluster0-shard-00-01.3vcrt.azure.mongodb.net:27017,cluster0-shard-00-02.3vcrt.azure.mongodb.net:27017/app?ssl=true&replicaSet=atlas-11vioh-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
